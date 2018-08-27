@@ -1,7 +1,7 @@
-devil = int(input(""))
-if devil == 0:
+dev = int(input(""))
+if dev == 0:
 	print("zero")
-elif devil < 0:
+elif dev < 0:
 	print("negative")
 else:
 	print("positive")
